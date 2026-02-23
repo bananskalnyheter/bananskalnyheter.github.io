@@ -28,11 +28,11 @@ nav a {
 }
 
 nav a:hover {
-    color: #00bcd4;
+    color: #ebeb38;
 }
 
 .hero {
-    background: #00bcd4;
+    background: #ebeb38;
     color: white;
     padding: 60px 20px;
     text-align: center;
